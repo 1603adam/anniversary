@@ -1,0 +1,3 @@
+# Place your photos, videos, and gifs here.
+# Then set their paths in src/data/content.ts
+# Example: src: "/memories/01-first-date.jpg"
